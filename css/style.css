@@ -10,7 +10,7 @@
 
 }
 .div1 {
-	background-image: url("../../porjeto4bm/img/2323.jpg");
+	background-image: url("../img/2323.jpg");
 	width: 100%;
 	height: 100%;
 	position:relative;
@@ -32,7 +32,7 @@
 	font-size: 60px;
 }
 .div2 {
-	background-image: url("../../porjeto4bm/img/55555.png");
+	background-image: url("../img/55555.png");
 	width: 100%;
 	height: 100%;
 	position:relative;
